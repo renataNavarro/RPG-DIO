@@ -1,0 +1,15 @@
+C:\Users\Renata\Workspace\RPGProject\bin\Debug\net6.0\RPGProject.exe
+C:\Users\Renata\Workspace\RPGProject\bin\Debug\net6.0\RPGProject.deps.json
+C:\Users\Renata\Workspace\RPGProject\bin\Debug\net6.0\RPGProject.runtimeconfig.json
+C:\Users\Renata\Workspace\RPGProject\bin\Debug\net6.0\RPGProject.dll
+C:\Users\Renata\Workspace\RPGProject\bin\Debug\net6.0\RPGProject.pdb
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.csproj.AssemblyReference.cache
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.AssemblyInfoInputs.cache
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.AssemblyInfo.cs
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.dll
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\refint\RPGProject.dll
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.pdb
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\RPGProject.genruntimeconfig.cache
+C:\Users\Renata\Workspace\RPGProject\obj\Debug\net6.0\ref\RPGProject.dll
